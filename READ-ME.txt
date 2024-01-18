@@ -1,0 +1,9 @@
+  =>  Template Name    : Tea House - Tea Shop
+
+  =>  Template Link    : https://htmlcodex.com/tea-shop-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Gitanjali
+
+  =>  Author Website   : https://Gitanjali.com
